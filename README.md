@@ -2,6 +2,8 @@
 
 Este projeto faz uma raspagem de dados no portal da Câmara Municipal de Indaial utilizando a linguagem Python. Depois disso, inclui os registros obtidos em um banco de dados SQL Server. Por fim, faz a análise utilizando o Power BI.
 
+O objetivo do projeto é entender a atividade política da cidade e fornecer uma ferramenta que possa auxiliar a análise de forma automatizada e visual.
+
 O fluxograma abaixo ilustra todo o processo:
 
 <img src="https://raw.githubusercontent.com/FerrazThales/Observatorio_Social_Indaial/main/imagens/fluxograma.svg">
